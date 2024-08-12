@@ -44,10 +44,10 @@
 | ----------------------------------------------------------------| :-------: |
 | stepik.org/Основы статистики                                    |     ✅    |
 | karpov.courses/Симулятор SQL                                    |     ✅    |
-| hackerrank.com/SQL Advanced                                     | 02/2022 - 03/2022 |
-| stepik.org/Визуализация данных и основы работы в Tableau        | 02/2022 - 03/2022 |
-| stepik.org/Поколение Python                                     | 02/2022 - 03/2022 |
-| analytics.google.com/Расширенный курс по Google Аналитике       | 05/2022 - xx/2023 |
+| hackerrank.com/SQL Advanced                                     |     ✅    |
+| stepik.org/Визуализация данных и основы работы в Tableau        | в процессе... |
+| stepik.org/Поколение Python                                     | в процессе... |
+| analytics.google.com/Расширенный курс по Google Аналитике       | в процессе... |
 
 ---
 
