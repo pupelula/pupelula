@@ -30,8 +30,12 @@
 ![SQL](https://img.shields.io/badge/SQL-brightgreen?style=for-the-badge&logo=postgresql&logoColor=white&logoSize=amg&color=336791)
 ![Python](https://img.shields.io/badge/Python-brightgreen?style=for-the-badge&logo=python&logoColor=ffde57&logoSize=amg&color=4584b6)
 ![Tableau](https://img.shields.io/badge/Tableau-brightgreen?style=for-the-badge&logo=tableau&logoColor=F28D18&logoSize=amg&color=1c4481)
-
-
+![Power BI](https://img.shields.io/badge/Power%20BI-brightgreen?style=for-the-badge&logoSize=amg&color=F2C80F)
+![Excel](https://img.shields.io/badge/Excel-brightgreen?style=for-the-badge&logoSize=amg&color=1D6F42)
+![Notion](https://img.shields.io/badge/Notion-brightgreen?style=for-the-badge&logo=notion&logoColor=black&logoSize=amg&color=white)
+![Figma](https://img.shields.io/badge/Figma-brightgreen?style=for-the-badge&logo=figma&logoColor=white&logoSize=amg&color=black)
+![Google Analytics](https://img.shields.io/badge/Google%20Analytics-brightgreen?style=for-the-badge&logo=googleanalytics&logoColor=ffffff&logoSize=amg&color=f57e02)
+![GitHub](https://img.shields.io/badge/GitHub-brightgreen?style=for-the-badge&logo=github&logoColor=ffffff&logoSize=amg&color=black)
 
 
 
