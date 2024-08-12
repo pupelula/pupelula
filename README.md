@@ -35,7 +35,6 @@
 ![Figma](https://img.shields.io/badge/Figma-brightgreen?style=for-the-badge&logo=figma&logoColor=white&logoSize=amg&color=black)
 ![Notion](https://img.shields.io/badge/Notion-brightgreen?style=for-the-badge&logo=notion&logoColor=black&logoSize=amg&color=white)
 ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-brightgreen?style=for-the-badge&logo=googleanalytics&logoColor=ffffff&logoSize=amg&color=ed750a)
-![GitHub](https://img.shields.io/badge/GitHub-brightgreen?style=for-the-badge&logo=github&logoColor=ffffff&logoSize=amg&color=black)
 
 
 ### 🧠 Курсы:
@@ -49,7 +48,10 @@
 | stepik.org/Поколение Python                                     | в процессе... |
 | analytics.google.com/Расширенный курс по Google Аналитике       | в процессе... |
 
----
+
+Когда дело доходит до решения проблем, я проявляю смекалку, легко адаптируясь к различным методологиям. Умение излагать сложные технические вопросы в понятным и доступным языком позволяет мне без труда преодолевать разрыв между технологиями и бизнесом.
+
+Давайте общаться и строить будущее вместе! 🌟
 
 
 
