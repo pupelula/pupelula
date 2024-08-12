@@ -23,6 +23,14 @@
 [![Telegram](https://img.shields.io/badge/Telegram-brightgreen?style=flat-square&logo=telegram&logoColor=white&logoSize=auto&color=0088cc&link=https%3A%2F%2Ft.me%2Fpelula)](https://t.me/pelula)
 [![Instagram](https://img.shields.io/badge/Instagram-brightgreen?style=flat-square&logo=instagram&logoColor=white&logoSize=auto&color=E1306C&link=https%3A%2F%2Fwww.instagram.com%2Fmashaaivanova%2F)](https://www.instagram.com/mashaaivanova/)
 
+###
+
+<h3 align="left">🛠 Технологии:</h3>
+
+[![SQL](https://img.shields.io/badge/SQL-brightgreen?style=for-the-badge&logo=postgresql&logoColor=white&logoSize=amg&color=336791)]
+
+
+
 
 
 
