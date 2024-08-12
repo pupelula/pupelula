@@ -34,7 +34,7 @@
 ![Excel](https://img.shields.io/badge/Excel-brightgreen?style=for-the-badge&logoSize=amg&color=1D6F42)
 ![Figma](https://img.shields.io/badge/Figma-brightgreen?style=for-the-badge&logo=figma&logoColor=white&logoSize=amg&color=black)
 ![Notion](https://img.shields.io/badge/Notion-brightgreen?style=for-the-badge&logo=notion&logoColor=black&logoSize=amg&color=white)
-![Google Analytics](https://img.shields.io/badge/Google%20Analytics-brightgreen?style=for-the-badge&logo=googleanalytics&logoColor=ffffff&logoSize=amg&color=ffc517)
+![Google Analytics](https://img.shields.io/badge/Google%20Analytics-brightgreen?style=for-the-badge&logo=googleanalytics&logoColor=ffffff&logoSize=amg&color=ed750a)
 ![GitHub](https://img.shields.io/badge/GitHub-brightgreen?style=for-the-badge&logo=github&logoColor=ffffff&logoSize=amg&color=black)
 
 
