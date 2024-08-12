@@ -28,6 +28,9 @@
 <h3 align="left">🛠 Технологии:</h3>
 
 ![SQL](https://img.shields.io/badge/SQL-brightgreen?style=for-the-badge&logo=postgresql&logoColor=white&logoSize=amg&color=336791)
+![Python](https://img.shields.io/badge/Python-brightgreen?style=for-the-badge&logo=python&logoColor=ffde57&logoSize=amg&color=4584b6)
+![Tableau](https://img.shields.io/badge/Tableau-brightgreen?style=for-the-badge&logo=tableau&logoColor=F28D18&logoSize=amg&color=1c4481)
+
 
 
 
