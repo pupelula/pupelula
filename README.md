@@ -14,9 +14,10 @@
 
 ###
 
-[![Linkedin: Pelula](https://img.shields.io/badge/-Ghazi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pelula/)](https://www.linkedin.com/in/pelula/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-brightgreen?style=flat-square&logo=linkedin&logoColor=white&logoSize=auto&color=0e76a8&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fpelula%2F)](https://www.linkedin.com/in/pelula/)
 [![GitHub pupelula](https://img.shields.io/github/followers/pupelula?label=follow&style=social)](https://github.com/pupelula)
-[![Telegram](https://img.shields.io/badge/Telegram-brightgreen?style=flat-square&logo=telegram&logoColor=white&logoSize=auto&color=74b7d4&link=https%3A%2F%2Ft.me%2Fpelula)](https://t.me/pelula)
+[![Telegram](https://img.shields.io/badge/Telegram-brightgreen?style=flat-square&logo=telegram&logoColor=white&logoSize=auto&color=0088cc&link=https%3A%2F%2Ft.me%2Fpelula)](https://t.me/pelula)
 
-https://img.shields.io/twitter/follow/codewithghazi?style=social](https://img.shields.io/badge/Telegram-brightgreen?style=flat-square&logo=telegram&logoColor=white&logoSize=auto&color=74b7d4&link=https%3A%2F%2Ft.me%2Fpelula
+
+
 
