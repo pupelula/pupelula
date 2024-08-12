@@ -27,7 +27,7 @@
 
 <h3 align="left">🛠 Технологии:</h3>
 
-[![SQL](https://img.shields.io/badge/SQL-brightgreen?style=for-the-badge&logo=postgresql&logoColor=white&logoSize=amg&color=336791)]
+![SQL](https://img.shields.io/badge/SQL-brightgreen?style=for-the-badge&logo=postgresql&logoColor=white&logoSize=amg&color=336791)
 
 
 
