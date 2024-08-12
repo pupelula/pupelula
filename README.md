@@ -14,10 +14,9 @@
 
 ###
 
-[![Linkedin: Ghazi](https://img.shields.io/badge/-Ghazi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ghazi-khan/)](https://www.linkedin.com/in/ghazi-khan/)
-[![GitHub Ghazi](https://img.shields.io/github/followers/gkhan205?label=follow&style=social)](https://github.com/gkhan205)
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCio7gIFilw6wsgbTZAVOBrg?style=social)
-![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCio7gIFilw6wsgbTZAVOBrg?style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/codewithghazi?style=social)
+[![Linkedin: Pelula](https://img.shields.io/badge/-Ghazi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pelula/)](https://www.linkedin.com/in/pelula/)
+[![GitHub pupelula](https://img.shields.io/github/followers/pupelula?label=follow&style=social)](https://github.com/pupelula)
+![Telegram Follow]([https://img.shields.io/twitter/follow/codewithghazi?style=social](https://img.shields.io/badge/Telegram-brightgreen?style=flat-square&logo=telegram&logoColor=white&logoSize=auto&color=74b7d4&link=https%3A%2F%2Ft.me%2Fpelula))
+
 
 
