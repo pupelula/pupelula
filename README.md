@@ -14,6 +14,10 @@
 
 ###
 
+<h3 align="left">📫  Для связи</h3>
+
+###
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-brightgreen?style=flat-square&logo=linkedin&logoColor=white&logoSize=auto&color=0e76a8&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fpelula%2F)](https://www.linkedin.com/in/pelula/)
 [![GitHub pupelula](https://img.shields.io/badge/GitHub-brightgreen?style=flat-square&logo=github&logoColor=white&logoSize=auto&color=24292e&link=https%3A%2F%2Fgithub.com%2Fpupelula)](https://github.com/pupelula)
 [![Telegram](https://img.shields.io/badge/Telegram-brightgreen?style=flat-square&logo=telegram&logoColor=white&logoSize=auto&color=0088cc&link=https%3A%2F%2Ft.me%2Fpelula)](https://t.me/pelula)
