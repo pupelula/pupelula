@@ -2,11 +2,11 @@
 
 ###
 
-<h1 align="center">Привет👋 Я Маша!</h1>
+<h1 align="center">Hi👋 It's Masha!</h1>
 
 ###
 
-<h3 align="left">👩‍💻  Обо мне</h3>
+<h3 align="left">👩‍💻  About me</h3>
 
 ###
 
@@ -25,7 +25,7 @@
 
 ###
 
-<h3 align="left">🛠 Технологии:</h3>
+<h3 align="left">🛠 Skills:</h3>
 
 ![SQL](https://img.shields.io/badge/SQL-brightgreen?style=for-the-badge&logo=postgresql&logoColor=white&logoSize=amg&color=336791)
 ![Python](https://img.shields.io/badge/Python-brightgreen?style=for-the-badge&logo=python&logoColor=ffde57&logoSize=amg&color=4584b6)
@@ -37,8 +37,8 @@
 ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-brightgreen?style=for-the-badge&logo=googleanalytics&logoColor=ffffff&logoSize=amg&color=ed750a)
 
 
-### 🧠 Курсы:
-Сертификаты: [https://github.com/pupelula/Education] 
+### 🧠 Courses:
+Certificates: [https://github.com/pupelula/Education] 
 
 | Курсы                                                           | Сертификат|
 | ----------------------------------------------------------------| :-------: |
