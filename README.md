@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Data Analyst with 2+ years in B2C customer support and operations, including 1 year in Customer Care BI; skilled in reporting, data analysis, and optimizing processes to enhance customer experience.</p>
+<p align="left">Data Analyst with 2+ years in B2C customer support and operations, including 1 year in Customer Care BI. Skilled in reporting, data analysis, and optimizing processes to enhance customer experience.</p>
 
 ###
 
