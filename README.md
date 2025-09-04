@@ -2,7 +2,7 @@
 
 ###
 
-<h1 align="center">Hi👋 It's Masha!</h1>
+<h1 align="center">Hi👋 I'm Masha!</h1>
 
 ###
 
