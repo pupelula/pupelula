@@ -18,7 +18,7 @@
 
 ###
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-brightgreen?style=flat-square&logo=linkedin&logoColor=white&logoSize=auto&color=0e76a8&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fpelula%2F)]([https://www.linkedin.com/in/pelula/](https://www.linkedin.com/in/maria-ivanova-401a1b342/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-brightgreen?style=flat-square&logo=linkedin&logoColor=white&color=0e76a8)](https://www.linkedin.com/in/maria-ivanova-401a1b342/)
 [![GitHub pupelula](https://img.shields.io/badge/GitHub-brightgreen?style=flat-square&logo=github&logoColor=white&logoSize=auto&color=24292e&link=https%3A%2F%2Fgithub.com%2Fpupelula)](https://github.com/pupelula)
 [![Telegram](https://img.shields.io/badge/Telegram-brightgreen?style=flat-square&logo=telegram&logoColor=white&logoSize=auto&color=0088cc&link=https%3A%2F%2Ft.me%2Fpelula)](https://t.me/pelula)
 [![Instagram](https://img.shields.io/badge/Instagram-brightgreen?style=flat-square&logo=instagram&logoColor=white&logoSize=auto&color=E1306C&link=https%3A%2F%2Fwww.instagram.com%2Fmashaaivanova%2F)](https://www.instagram.com/mashaaivanova/)
@@ -46,7 +46,7 @@ Certificates: [https://github.com/pupelula/Education]
 | karpov.courses/Simulator SQL                                    |     ✅    |
 | hackerrank.com/SQL Advanced                                     |     ✅    |
 | karpov.courses/Data Visualization and Advanced Tableau          |     ✅    |
-| stepik.org/Поколение Python                                     | in progress... |
+| stepik.org/Python                                               | in progress... |
 | karpov.courses/machine learning                                 | in progress... |
 
 
